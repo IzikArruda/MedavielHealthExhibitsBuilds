@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Medaviel Health Exhibits</title>
+    <style>
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 24px;
+        font-family: "Segoe UI", sans-serif;
+        background: #f8fafc;
+      }
+
+      .exhibit-list {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        width: min(320px, 100%);
+      }
+
+      .exhibit-btn {
+        display: block;
+        padding: 14px 20px;
+        border: none;
+        border-radius: 8px;
+        background: #1e293b;
+        color: #f8fafc;
+        font: inherit;
+        font-size: 1rem;
+        font-weight: 600;
+        text-align: center;
+        text-decoration: none;
+        cursor: pointer;
+      }
+
+      .exhibit-btn:hover {
+        background: #334155;
+      }
+    </style>
+  </head>
+  <body>
+    <nav class="exhibit-list">
+      <a class="exhibit-btn" href="./frequency-timeline/">Frequency Timeline</a>
+    </nav>
+  </body>
+</html>
