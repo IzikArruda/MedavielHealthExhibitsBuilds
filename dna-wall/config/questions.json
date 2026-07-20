@@ -1,0 +1,121 @@
+{
+  "questions": [
+    {
+      "id": "roll-tongue",
+      "prompt": "Can you roll your tongue?",
+      "choices": [
+        {
+          "id": "yes",
+          "label": "Yes",
+          "result": 78
+        },
+        {
+          "id": "no",
+          "label": "No",
+          "result": 14
+        }
+      ]
+    },
+    {
+      "id": "cilantro",
+      "prompt": "Do you think cilantro tastes like soap?",
+      "choices": [
+        {
+          "id": "yes",
+          "label": "Yes",
+          "result": 61
+        },
+        {
+          "id": "no",
+          "label": "No",
+          "result": 39
+        },
+        {
+          "id": "idk",
+          "label": "I don't know",
+          "result": 27
+        }
+      ]
+    },
+    {
+      "id": "glasses",
+      "prompt": "Do you wear glasses or contact lenses?",
+      "choices": [
+        {
+          "id": "yes",
+          "label": "Yes",
+          "result": 33
+        },
+        {
+          "id": "no",
+          "label": "No",
+          "result": 41
+        }
+      ]
+    },
+    {
+      "id": "eye-color",
+      "prompt": "Are your eyes both the same colour?",
+      "choices": [
+        {
+          "id": "yes",
+          "label": "Yes",
+          "result": 133
+        },
+        {
+          "id": "no",
+          "label": "No",
+          "result": 41
+        }
+      ]
+    },
+    {
+      "id": "dimples",
+      "prompt": "Do you have dimples?",
+      "choices": [
+        {
+          "id": "yes",
+          "label": "Yes",
+          "result": 53
+        },
+        {
+          "id": "no",
+          "label": "No",
+          "result": 127
+        }
+      ]
+    },
+    {
+      "id": "widows-peak",
+      "prompt": "Do you have a widow’s peak in your hair?",
+      "choices": [
+        {
+          "id": "yes",
+          "label": "Yes",
+          "result": 53
+        },
+        {
+          "id": "no",
+          "label": "No",
+          "result": 127
+        }
+      ]
+    },
+    {
+      "id": "ear-lobes",
+      "prompt": "Are your ear lobes attached?",
+      "choices": [
+        {
+          "id": "yes",
+          "label": "Yes",
+          "result": 53
+        },
+        {
+          "id": "no",
+          "label": "No",
+          "result": 127
+        }
+      ]
+    }
+  ]
+}
