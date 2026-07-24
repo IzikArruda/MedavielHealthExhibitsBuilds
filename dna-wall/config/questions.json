@@ -3,6 +3,7 @@
     {
       "id": "roll-tongue",
       "prompt": "Can you roll your tongue?",
+      "imageSrc": "/images/QuestionImages/Tongue.jpg",
       "choices": [
         {
           "id": "yes",
@@ -19,6 +20,7 @@
     {
       "id": "cilantro",
       "prompt": "Do you think cilantro tastes like soap?",
+      "imageSrc": "/images/QuestionImages/Cilantro.jpg",
       "choices": [
         {
           "id": "yes",
@@ -40,6 +42,7 @@
     {
       "id": "glasses",
       "prompt": "Do you wear glasses or contact lenses?",
+      "imageSrc": "/images/QuestionImages/Glasses.jpg",
       "choices": [
         {
           "id": "yes",
@@ -56,6 +59,7 @@
     {
       "id": "eye-color",
       "prompt": "Are your eyes both the same colour?",
+      "imageSrc": "/images/QuestionImages/Eyes.jpg",
       "choices": [
         {
           "id": "yes",
@@ -72,6 +76,7 @@
     {
       "id": "dimples",
       "prompt": "Do you have dimples?",
+      "imageSrc": "/images/QuestionImages/Dimples.jpg",
       "choices": [
         {
           "id": "yes",
@@ -88,6 +93,7 @@
     {
       "id": "widows-peak",
       "prompt": "Do you have a widow’s peak in your hair?",
+      "imageSrc": "/images/QuestionImages/Peak.jpg",
       "choices": [
         {
           "id": "yes",
@@ -104,6 +110,7 @@
     {
       "id": "ear-lobes",
       "prompt": "Are your ear lobes attached?",
+      "imageSrc": "/images/QuestionImages/Earlobe.jpg",
       "choices": [
         {
           "id": "yes",
