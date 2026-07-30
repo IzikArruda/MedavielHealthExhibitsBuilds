@@ -6,92 +6,106 @@
       "id": "alarm-clock",
       "title": "Alarm clock",
       "description": "Do you tend to fall asleep quickly? Or spend most nights tossing and turning? Up to half of the differences in kids’ sleeping patterns could be due to their genetics. ",
-      "imageSrc": "/images/alarm-clock.png"
+      "imageSrc": "/images/alarm-clock.png",
+      "iconAnimation": "shake"
     },
     {
       "id": "cilantro",
       "title": "Cilantro",
       "description": "If you think cilantro tastes like soap, you can blame your OR6A2 gene. One version, or allele, makes it easier for people to smell the soapy chemical found in its leaves. ",
       "imageSrc": "/images/cilantro.png",
-      "questionId": "cilantro"
+      "questionId": "cilantro",
+      "iconAnimation": "wave"
     },
     {
       "id": "coffee",
       "title": "Coffee Cup",
       "description": "Caffeine, a chemical you can find in tea and coffee, makes you feel alert while it’s in your blood stream. How long these effects last depend on your CYP1A2 gene.",
-      "imageSrc": "/images/coffee.png"
+      "imageSrc": "/images/coffee.png",
+      "iconAnimation": "pulse"
     },
     {
       "id": "calculator",
       "title": "Calculator",
       "description": "There is no single “math gene.” But researchers have found several that help shape this ability. Your environment also plays a big role, controlling up to 40% of your math skill.",
-      "imageSrc": "/images/calculator.png"
+      "imageSrc": "/images/calculator.png",
+      "iconAnimation": "shine"
     },
     {
       "id": "paint-brush",
       "title": "Paint brushes",
       "description": "What makes someone a good artist? Researchers think there your genes could play a role. But your environment, such as having art lessons, is still most important for shaping this skill. ",
       "imageSrc": "/images/paint-brush.png",
-      "questionId": "eye-color"
+      "questionId": "eye-color",
+      "iconAnimation": "twirl"
     },
     {
       "id": "musical-instrument",
       "title": "Musical instrument",
       "description": "Are some people born with musical talent? Certain music skills have a stronger genetic basis than others, such as perfect pitch. But researchers think that practice may “turn on” some musical genes.",
-      "imageSrc": "/images/musical-instrument.png"
+      "imageSrc": "/images/musical-instrument.png",
+      "iconAnimation": "wiggle"
     },
     {
       "id": "glasses",
       "title": "Glasses",
       "description": "Sometimes, people lose their vision because of genes they got from their parents. For others, things in their environment, such as screen time, are also part of why this happens. ",
       "imageSrc": "/images/glasses.png",
-      "questionId": "glasses"
+      "questionId": "glasses",
+      "iconAnimation": "shine"
     },
     {
       "id": "sports-gear",
       "title": "Sports gear",
       "description": "Our genes can make us more likely to be good athletes. Certain helpful traits, like being tall, are mostly due to genetics. But others, like mental toughness, are more complex.",
-      "imageSrc": "/images/sports-gear.png"
+      "imageSrc": "/images/sports-gear.png",
+      "iconAnimation": "bounce"
     },
     {
       "id": "hair-products",
       "title": "Hair Products",
       "description": "The texture of your hair is mostly controlled by your genes. There are several genes that interact, making your hair wavy, curly, or straight.",
       "imageSrc": "/images/hair-products.png",
-      "questionId": "widows-peak"
+      "questionId": "widows-peak",
+      "iconAnimation": "wave"
     },
     {
       "id": "dark-chocolate",
       "title": "Dark Chocolate",
       "description": "If you like dark chocolate best, this may be partly genetic. Researchers have found a link between certain genes and a taste for bitter foods.",
-      "imageSrc": "/images/dark-chocolate.png"
+      "imageSrc": "/images/dark-chocolate.png",
+      "iconAnimation": "pulse"
     },
     {
       "id": "lactaid",
       "title": "Lactaid",
       "description": "Many adults feel sick if they drink cow's milk. This is because their MCM6 gene has told their body to stop making lactase, the enzyme that breaks down the sugar in milk.",
-      "imageSrc": "/images/lactaid.png"
+      "imageSrc": "/images/lactaid.png",
+      "iconAnimation": "bob"
     },
     {
       "id": "ear-wax",
       "title": "Ear Wax removal kit",
       "description": "There are two types of ear wax: dry and flaky, and wet and sticky. Which type you have is mostly determined by a single gene, ABCC11.",
       "imageSrc": "/images/ear-wax.png",
-      "questionId": "ear-lobes"
+      "questionId": "ear-lobes",
+      "iconAnimation": "wiggle"
     },
     {
       "id": "Clothing",
       "title": "clothing",
       "description": "There’s no gene for fashion sense. Certain personality traits that shape your tastes may have a genetic link. But your sense of style comes from your environment, education, and experiences.",
       "imageSrc": "/images/clothing.png",
-      "questionId": "dimples"
+      "questionId": "dimples",
+      "iconAnimation": "twirl"
     },
     {
       "id": "snore-guard",
       "title": "Snore guard",
       "description": "Researchers think we have up to 173 genes that make us more likely to snore. But snoring is mostly caused by things in our environment.",
       "imageSrc": "/images/snore-guard.png",
-      "questionId": "roll-tongue"
+      "questionId": "roll-tongue",
+      "iconAnimation": "shake"
     }
   ]
 }
