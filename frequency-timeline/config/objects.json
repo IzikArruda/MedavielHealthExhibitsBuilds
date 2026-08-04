@@ -5,58 +5,58 @@
   "markerBaseSizePx": 100,
   "objects": [
     {
-      "id": "coral",
-      "label": "Coral",
-      "minHz": 40,
-      "maxHz": 2500,
-      "title": "Coral",
+      "id": "earthquake",
+      "label": "Earthquake",
+      "minHz": 1,
+      "maxHz": 20,
+      "title": "Earthquake",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software including versions of Lorem Ipsum.",
-      "imageSrc": "/Icons/coral.png"
+      "imageSrc": "/Icons/earthquake.png"
     },
     {
-      "id": "Fishingboat",
-      "label": "Fishing Boat",
-      "minHz": 200,
-      "maxHz": 3500,
-      "title": "Fishing Boat",
+      "id": "thunder",
+      "label": "Thunder",
+      "minHz": 20,
+      "maxHz": 250,
+      "title": "Thunder",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software including versions of Lorem Ipsum.",
-      "imageSrc": "/Icons/Fishing.png"
+      "imageSrc": "/Icons/thunder.png"
     },
     {
-      "id": "bird",
-      "label": "Birds",
-      "minHz": 1800,
-      "maxHz": 10000,
-      "title": "Birds",
+      "id": "adult",
+      "label": "Adult voices",
+      "minHz": 85,
+      "maxHz": 270,
+      "title": "Adult Voices",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software including versions of Lorem Ipsum.",
-      "imageSrc": "/Icons/MPA.png"
+      "imageSrc": "/Icons/adult.png"
     },
     {
-      "id": "ship",
-      "label": "Ship",
-      "minHz": 4500,
-      "maxHz": 12000,
-      "title": "Ship",
+      "id": "kid",
+      "label": "Kid voices",
+      "minHz": 250,
+      "maxHz": 400,
+      "title": "Kid Voices",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software including versions of Lorem Ipsum.",
-      "imageSrc": "/Icons/Ship.png"
+      "imageSrc": "/Icons/kid.png"
     },
     {
-      "id": "topo",
-      "label": "Topo",
-      "minHz": 9000,
-      "maxHz": 16500,
-      "title": "Topo",
+      "id": "birdsong",
+      "label": "Birdsong",
+      "minHz": 1000,
+      "maxHz": 8000,
+      "title": "Birdsong",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software including versions of Lorem Ipsum.",
-      "imageSrc": "/Icons/Topo.png"
+      "imageSrc": "/Icons/birdsong.png"
     },
     {
-      "id": "whale",
-      "label": "Whale",
-      "minHz": 16000,
-      "maxHz": 20000,
-      "title": "Whale",
+      "id": "dogwhistle",
+      "label": "Dog Whistle",
+      "minHz": 20000,
+      "maxHz": 40000,
+      "title": "Dog Whistle",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software including versions of Lorem Ipsum.",
-      "imageSrc": "/Icons/Whale.png"
+      "imageSrc": "/Icons/dogwhistle.png"
     }
   ]
 }
