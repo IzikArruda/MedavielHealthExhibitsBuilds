@@ -1,8 +1,4 @@
 {
-  "selectionThresholdHz": 600,
-  "markerMaxSizeRangeHz": 120,
-  "markerMaxGrowScale": 1.5,
-  "markerBaseSizePx": 100,
   "dbOffsets": [
     {
       "hz": 20,
