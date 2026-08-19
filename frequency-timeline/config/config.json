@@ -1,0 +1,176 @@
+{
+  "selectionThresholdHz": 600,
+  "markerMaxSizeRangeHz": 120,
+  "markerMaxGrowScale": 1.5,
+  "markerBaseSizePx": 100,
+  "dbOffsets": [
+    {
+      "hz": 20,
+      "db": -7.32
+    },
+    {
+      "hz": 25,
+      "db": 1.1
+    },
+    {
+      "hz": 31.5,
+      "db": 0
+    },
+    {
+      "hz": 40,
+      "db": 8.14
+    },
+    {
+      "hz": 50,
+      "db": 0
+    },
+    {
+      "hz": 63,
+      "db": 0
+    },
+    {
+      "hz": 80,
+      "db": 0
+    },
+    {
+      "hz": 100,
+      "db": 0
+    },
+    {
+      "hz": 125,
+      "db": 0
+    },
+    {
+      "hz": 160,
+      "db": 0
+    },
+    {
+      "hz": 200,
+      "db": 0
+    },
+    {
+      "hz": 250,
+      "db": 0
+    },
+    {
+      "hz": 315,
+      "db": 0
+    },
+    {
+      "hz": 400,
+      "db": 0
+    },
+    {
+      "hz": 500,
+      "db": 0
+    },
+    {
+      "hz": 630,
+      "db": 0
+    },
+    {
+      "hz": 800,
+      "db": 0
+    },
+    {
+      "hz": 1000,
+      "db": 0
+    },
+    {
+      "hz": 1250,
+      "db": 0
+    },
+    {
+      "hz": 1600,
+      "db": 0
+    },
+    {
+      "hz": 2000,
+      "db": 0
+    },
+    {
+      "hz": 2500,
+      "db": 0
+    },
+    {
+      "hz": 3150,
+      "db": 0
+    },
+    {
+      "hz": 4000,
+      "db": 0
+    },
+    {
+      "hz": 5000,
+      "db": 0
+    },
+    {
+      "hz": 6300,
+      "db": 0
+    },
+    {
+      "hz": 8000,
+      "db": 0
+    },
+    {
+      "hz": 10000,
+      "db": 0
+    },
+    {
+      "hz": 12500,
+      "db": 0
+    },
+    {
+      "hz": 16000,
+      "db": 0
+    },
+    {
+      "hz": 20000,
+      "db": 0
+    }
+  ],
+  "objects": [
+    {
+      "id": "earthquake",
+      "label": "Earthquake",
+      "minHz": 1,
+      "maxHz": 20,
+      "imageSrc": "/Icons/earthquake.png"
+    },
+    {
+      "id": "thunder",
+      "label": "Thunder",
+      "minHz": 20,
+      "maxHz": 250,
+      "imageSrc": "/Icons/thunder.png"
+    },
+    {
+      "id": "adult",
+      "label": "Adult voices",
+      "minHz": 85,
+      "maxHz": 270,
+      "imageSrc": "/Icons/adult.png"
+    },
+    {
+      "id": "kid",
+      "label": "Kid voices",
+      "minHz": 250,
+      "maxHz": 400,
+      "imageSrc": "/Icons/kid.png"
+    },
+    {
+      "id": "birdsong",
+      "label": "Birdsong",
+      "minHz": 1000,
+      "maxHz": 8000,
+      "imageSrc": "/Icons/birdsong.png"
+    },
+    {
+      "id": "dogwhistle",
+      "label": "Dog Whistle",
+      "minHz": 20000,
+      "maxHz": 40000,
+      "imageSrc": "/Icons/dogwhistle.png"
+    }
+  ]
+}
