@@ -131,42 +131,42 @@
       "label": "Earthquake",
       "minHz": 1,
       "maxHz": 20,
-      "imageSrc": "/Icons/earthquake.png"
+      "imageSrc": "/icons/earthquake.png"
     },
     {
       "id": "thunder",
       "label": "Thunder",
       "minHz": 20,
       "maxHz": 250,
-      "imageSrc": "/Icons/thunder.png"
+      "imageSrc": "/icons/thunder.png"
     },
     {
       "id": "adult",
       "label": "Adult voices",
       "minHz": 85,
       "maxHz": 270,
-      "imageSrc": "/Icons/adult.png"
+      "imageSrc": "/icons/adult.png"
     },
     {
       "id": "kid",
       "label": "Kid voices",
       "minHz": 250,
       "maxHz": 400,
-      "imageSrc": "/Icons/kid.png"
+      "imageSrc": "/icons/kid.png"
     },
     {
       "id": "birdsong",
       "label": "Birdsong",
       "minHz": 1000,
       "maxHz": 8000,
-      "imageSrc": "/Icons/birdsong.png"
+      "imageSrc": "/icons/birdsong.png"
     },
     {
       "id": "dogwhistle",
       "label": "Dog Whistle",
       "minHz": 20000,
       "maxHz": 40000,
-      "imageSrc": "/Icons/dogwhistle.png"
+      "imageSrc": "/icons/dogwhistle.png"
     }
   ]
 }
